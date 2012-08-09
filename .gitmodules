@@ -1,0 +1,3 @@
+[submodule "pycgtools"]
+	path = pycgtools
+	url = git@github.com:dasricht/pycgutils.git
