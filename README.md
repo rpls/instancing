@@ -1,0 +1,1 @@
+A very simple demonstration of instanced drawing with (Py)OpenGL. The demo relies on my pycgtools, so don't forget to run `git submodule --init`.
